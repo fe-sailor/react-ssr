@@ -1,0 +1,44 @@
+{
+  "name": "react-ssr",
+  "version": "0.0.1",
+  "description": "react ssr boiler plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fe-sailor/react-ssr.git"
+  },
+  "keywords": [
+    "ssr",
+    "react"
+  ],
+  "author": "fe-sailor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fe-sailor/react-ssr/issues"
+  },
+  "homepage": "https://github.com/fe-sailor/react-ssr#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "@typescript-eslint/eslint-plugin": "^7.0.2",
+    "@typescript-eslint/parser": "^7.0.2",
+    "eslint": "^8.56.0",
+    "eslint-plugin-boundaries": "^4.2.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.5",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.34.1",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "prettier-eslint": "^16.3.0",
+    "prettier-eslint-cli": "^8.0.1",
+    "typescript": "^5.4.5"
+  }
+}
